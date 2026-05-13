@@ -80,5 +80,5 @@ void playGame(vector<string> phrases) {
 }
 
 void hangMan() {
-    
+    //test github on laptop
 }
