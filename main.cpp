@@ -79,4 +79,6 @@ void playGame(vector<string> phrases) {
 
 }
 
-void hangMan()
+void hangMan() {
+    
+}
